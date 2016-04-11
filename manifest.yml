@@ -1,0 +1,16 @@
+---
+applications:
+- services:
+  - catalogAPI
+  - ordersAPI
+  name: Microservices-UI-kazukiharada914-0408
+  memory: 256M
+  instances: 1
+  host: Microservices-UI-kazukiharada914-0408
+  path: .
+name: Microservices-UI-kazukiharada914-0408
+memory: 256M
+instances: 1
+host: Microservices-UI-kazukiharada914-0408
+domain: mybluemix.net
+path: .
