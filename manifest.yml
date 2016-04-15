@@ -3,6 +3,9 @@ applications:
 - services:
   - catalogAPI
   - ordersAPI
+  - New Relic-gj
+  - Monitoring and Analytics-f4
+  - Application Security on Cloud-kz
   name: Microservices-UI-kazukiharada914-0408
   memory: 256M
   instances: 1
